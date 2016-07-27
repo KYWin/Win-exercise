@@ -1,4 +1,4 @@
-File was changed by Win.
+Edited by Win.
 preparing to commit.
-File changeed second time.
+File changeed second time.i
 I commit only 2 times.
